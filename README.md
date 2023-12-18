@@ -4,7 +4,8 @@
 ## Owner
 * [Adarsh P](https://github.com/adarshpgit)
 
-Screenshots/Screenshots of Web page/Home Page.png
+## Home
+![alt text](https://github.com/Gotham13121997/RDBMS-Mini-Project-Anti-Ragging-Cell/blob/master/diagrams/dfd0.jpg)
 
 ## STUFF USED
 * Node.js
