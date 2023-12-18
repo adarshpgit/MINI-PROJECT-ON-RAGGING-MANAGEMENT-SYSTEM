@@ -5,7 +5,7 @@
 * [Adarsh P](https://github.com/adarshpgit)
 
 ## Home
-(https://github.com/adarshpalakkadan/MINI-PROJECT-ON-RAGGING-MANAGEMENT-SYSTEM/blob/master/Screenshots/Screenshots%20of%20Web%20page/Home%20Page.png)
+![alt text](https://github.com/adarshpalakkadan/MINI-PROJECT-ON-RAGGING-MANAGEMENT-SYSTEM/blob/master/Screenshots/Screenshots%20of%20Web%20page/Home%20Page.png)
 
 ## STUFF USED
 * Node.js
