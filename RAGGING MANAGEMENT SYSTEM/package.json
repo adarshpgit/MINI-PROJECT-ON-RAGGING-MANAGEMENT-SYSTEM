@@ -1,0 +1,28 @@
+{
+  "name": "cec_anti_ragging_cell",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server/www.cecantiraggingcell"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-busboy": "^7.0.0",
+    "express-fileupload": "^1.2.0",
+    "express-myconnection": "^1.0.4",
+    "express-session": "^1.17.2",
+    "http-errors": "^1.8.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "package-name": "^0.1.0",
+    "sweetalert2": "^11.0.18"
+  },
+  "description": "## Owner * [Adarsh P](https://github.com/adarshpgit)",
+  "main": "app.js",
+  "keywords": [],
+  "author": "Adarsh",
+  "license": "ISC"
+}
