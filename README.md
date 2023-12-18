@@ -5,7 +5,7 @@
 * [Adarsh P](https://github.com/adarshpgit)
 
 ## Home
-![alt text](https://github.com/Gotham13121997/RDBMS-Mini-Project-Anti-Ragging-Cell/blob/master/diagrams/dfd0.jpg)
+(https://github.com/adarshpalakkadan/MINI-PROJECT-ON-RAGGING-MANAGEMENT-SYSTEM/blob/master/Screenshots/Screenshots%20of%20Web%20page/Home%20Page.png)
 
 ## STUFF USED
 * Node.js
