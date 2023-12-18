@@ -1,5 +1,5 @@
 # S3 MCA MINI PROJECT
-## ANTI RAGGING CELL
+## RAGGING MANAGEMENT SYSTEM
 
 ## Owner
 * [Adarsh P](https://github.com/adarshpalakkadan)
